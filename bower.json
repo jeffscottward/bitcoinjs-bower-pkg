@@ -22,7 +22,7 @@
     },
     "bugs": "https://github.com/jeffscottward/bitcoinjs-bower-pkg/issues",
     "dependencies": {},
-    "main": ["bitcoinjs.min.js",],
+    "main": ["bitcoinjs.min.js"],
     "ignore": [
         "/*.*",
         "**/.*",
