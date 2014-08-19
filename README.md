@@ -1,5 +1,4 @@
-#bitcoinjs
-----------
+#BitcoinJS
 ###Bitcoin in your browser!
 
 <img src="http://bower.io/img/bower-logo.png" height="50"/> 
