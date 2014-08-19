@@ -12,7 +12,7 @@ If you do not already have bower then please install it with
 
     $ npm install bower -g
 
-in your terminal
+via your terminal
 
 ----------
 
@@ -22,7 +22,7 @@ To install BitcoinJS in your project
     
 To enable in your project
 
-    <script src="bower_componenets/bitcoinjs/bitcoinjs.min.js"></scirpt>
+    <script src="bower_components/bitcoinjs/bitcoinjs.min.js"></scirpt>
 
 or concat it into a global JS file via w/ a build system, but thats up to you :)
     
