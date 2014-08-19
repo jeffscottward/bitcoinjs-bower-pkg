@@ -24,7 +24,7 @@ To enable in your project
 
     <script src="bower_componenets/bitcoinjs/bitcoinjs.min.js"></scirpt>
 
-or concat it into a global JS file via w/ a build system, bur thats up to you
+or concat it into a global JS file via w/ a build system, but thats up to you :)
     
 ----------
 For use of BitcoinJS please see the documentation at [Bitcoinjs.org](http://bitcoinjs.org/)
